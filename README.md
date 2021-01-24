@@ -1,5 +1,5 @@
 # smzdm
-My first repository on GitHub copy by mengshouer/br 
+My first repository on GitHub copy by mengshouer 
 #第一个小玩意，完全照抄的mengshouer雪狐大佬的，只是单独拿出来自用，谢谢大佬分享。
 以下来自大佬的指导说明，有问题别问我，问就是不知道。
 什么值得买网页每日签到
